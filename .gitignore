@@ -1,0 +1,4 @@
+# gitignore file to prevent unwanted files from being pushed to repo
+
+# macOS
+.DS_Store
