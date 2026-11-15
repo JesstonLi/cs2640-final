@@ -1,3 +1,7 @@
+# CS 2640 - Wordle Final Project
+# Spencer Davis, Felix Zheng, Aniket Subramanian, Jesston Li 
+# Part 3 - Guess Validation; Aniket
+
 .data
 prompt: .asciiz "Enter a five letter word: \n"
 error: .asciiz "Invalid. Must be exactly five letters. \n"
